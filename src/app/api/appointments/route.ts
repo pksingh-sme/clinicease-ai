@@ -130,11 +130,6 @@ export async function POST(request: NextRequest) {
     const appointmentDateTime = new Date(dateTime)
     const endDateTime = new Date(appointmentDateTime.getTime() + duration * 60000)
 
-      appointmentDateTime,
-      endDateTime,
-      providerId
-    })
-
     const conflictingAppointments = await prisma.appointment.findMany({
       where: {
         providerId,
