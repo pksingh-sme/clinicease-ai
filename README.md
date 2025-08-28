@@ -65,7 +65,6 @@ npm install
 cp .env.example .env.local
 ```
 
-=======
 Edit `.env.local` with your configuration:
 ```env
 DATABASE_URL="postgresql://username:password@localhost:5432/clinicease"

@@ -1,0 +1,26 @@
+# ClinicEase AI - Code Owners
+
+# Default owners for entire repository
+* @pksingh-sme
+
+# Frontend components
+src/components/ @pksingh-sme
+src/app/ @pksingh-sme
+src/contexts/ @pksingh-sme
+
+# Backend/API routes
+src/app/api/ @pksingh-sme
+src/lib/ @pksingh-sme
+src/pages/api/ @pksingh-sme
+
+# Database
+prisma/ @pksingh-sme
+
+# Documentation
+*.md @pksingh-sme
+
+# Configuration files
+next.config.js @pksingh-sme
+tailwind.config.js @pksingh-sme
+tsconfig.json @pksingh-sme
+package.json @pksingh-sme
