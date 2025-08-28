@@ -2,8 +2,6 @@
 
 A comprehensive full-stack healthcare management system built with Next.js, featuring AI-powered scheduling, real-time messaging, billing automation, and HIPAA-compliant patient management.
 
-![ClinicEase AI Dashboard](https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2053&q=80)
-
 ## 🏥 Overview
 
 ClinicEase AI streamlines clinic operations with intelligent automation, secure communication, and compliant data handling. Built for healthcare providers who need efficiency and patients who demand quality care.
