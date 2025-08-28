@@ -39,3 +39,22 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Temp files
+*.tmp
+*.temp
+
+# Uploads (these should be stored elsewhere in production)
+public/uploads/*
+!public/uploads/.gitkeep
